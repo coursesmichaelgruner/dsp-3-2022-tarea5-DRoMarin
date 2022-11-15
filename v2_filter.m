@@ -36,7 +36,7 @@ end
 
 %FILTER
 ff = 60;
-fi = 90;
+fi = 60;
 len = fs/60;
 rad = (0.9)^len;
 z = zeros(1,len+1);
