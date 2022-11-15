@@ -41,3 +41,6 @@ Finalmente, se obtienen los siguientes valores:
 
 ![frecuencia](img4.png)
 
+## Resultados
+
+El resultado con este filtro es sumamente bueno. se puede notar como el efecto se desvanece de inmediato y con la musica no logra escucharse en absoluto el ruido agregado. No se elimina por completo, pero se opaca lo suficiente. 
