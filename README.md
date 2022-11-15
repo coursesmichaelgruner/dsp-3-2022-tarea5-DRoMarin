@@ -21,7 +21,7 @@ El primer acercamiento correspondía a una serie de ceros y polos complejos conj
 
 ![eq](equation_1.jpg)
 
-donde n debe estar distanciado adecuadamente. Para calcular el distanciamiento se toma el espectro completo y se divide por 60 Hz, así se obtienen el número de armónicos totales en el espectro y el número de ceros necesarios (800 en total). Lo mismo se propone para los polos, que permiten compensar el efecto de los ceros. Como no se puede colocar el polo en el circulo unitario, se propone un radio r parametrizable tal que r sea menor que 1 con el mismo angulo que los ceros.
+donde cada solución debe estar distanciada adecuadamente. Para calcular el distanciamiento se toma el espectro completo y se divide por 60 Hz, así se obtienen el número de armónicos totales en el espectro y el número de ceros necesarios (800 en total). Lo mismo se propone para los polos, que permiten compensar el efecto de los ceros. Como no se puede colocar el polo en el circulo unitario, se propone un radio r parametrizable tal que r sea menor que 1 con el mismo angulo que los ceros.
 
 Finalmente, se obtienen los siguientes valores:
 
